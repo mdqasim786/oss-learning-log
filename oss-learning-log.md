@@ -24,7 +24,7 @@ My goal is not to make random contributions. My goal is to help real projects, l
 - Example components
 - Beginner-friendly React issues
 
-## Lesson 2 — How Maintainers Think
+## Lesson 1 — How Maintainers Think
 
 ### What I learned
 

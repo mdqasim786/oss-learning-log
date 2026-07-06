@@ -36,3 +36,22 @@ My goal is not to make random contributions. My goal is to help real projects, l
 ### Key takeaway
 
 I should think like a maintainer before acting like a contributor.
+
+## Lesson 3 — GitHub OSS Foundations
+
+### What I learned
+
+* Git is a version control system that tracks code changes locally.
+* GitHub is a cloud platform built around Git for collaboration.
+* A repository is the full project that Git tracks.
+* Clone means copying a repository to my local computer.
+* Fork means creating my own GitHub copy of someone else's repository.
+* Branches let developers work safely without directly changing the main branch.
+* Issues are tasks, bugs, feature requests, or improvements related to a project.
+* Pull Requests are requests to merge code changes after review.
+* Code reviews help maintain code quality before changes are merged.
+
+### Key takeaway
+
+Open source contribution is not only about writing code. It is about understanding the project, following the workflow, communicating professionally, and making maintainers' work easier.
+
